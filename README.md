@@ -9,3 +9,6 @@ Airlines Data Analytics for Aviation Industry
  Member 1  - Elavarasan</br>
  Member 2  - Tippusultan</br>
  Member 3  - Raghavan</br>
+
+
+ final cert - https://courses.ictacademy.skillsnetwork.site/certificates/4af2343f60d54190b55798a9f7a1cf90
